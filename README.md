@@ -3,7 +3,7 @@
 I'm a software engineer with 3+ years of experience and a growing focus on blockchain and smart contract development.
 
 ## 🚀 Web3 Projects
-- [Chainlink Lottery DApp](https://github.com/Marcrus813/HH-Raffle-revision)
+- [Decentralized Lottery](https://github.com/Marcrus813/HH-Raffle-revision)
 - [On-chain SVG NFT Collection](https://github.com/Marcrus813/HH-NFT)  
 - NFT Marketplace
     - [On-chain logic](https://github.com/Marcrus813/HH-NFT-Marketplace)
