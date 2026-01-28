@@ -14,7 +14,7 @@ Open-minded software engineer with 4 years of professional experience and a stro
 
 ## 💼 Current Role
 
-**Smart Contract Engineer
+**Smart Contract Engineer**
 
 - Design, develop, and maintain secure and efficient EVM-based smart contracts
 - Write comprehensive unit and integration tests with gas optimization
