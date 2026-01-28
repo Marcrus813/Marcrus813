@@ -46,7 +46,7 @@ Deep understanding of **Uniswap V2/V3**, **Aave V3**, **Liquid Staking Protocols
 
 ## 🚀 Featured Projects
 
-### 🎫 EventFi Platform
+### [🎫 EventFi Platform](https://github.com/Marcrus813/event-fi)
 
 **October 2024 - February 2025**
 
@@ -64,7 +64,7 @@ An incentive-based marketing platform featuring tokenized real-world engagement 
 
 ---
 
-### 🌉 EVM Bridge Protocol
+### [🌉 EVM Bridge Protocol](https://github.com/Marcrus813/bridge-contracts)
 
 **March 2025 - June 2026**
 
@@ -82,7 +82,7 @@ A funding pool-based cross-chain bridge infrastructure enabling seamless token t
 
 ---
 
-### 🔗 Cross-chain Staking Infrastructure
+### [🔗 Cross-chain Staking Infrastructure](https://github.com/Marcrus813/Cross-chain-stake-core)
 
 **July 2025 - January 2026**
 
