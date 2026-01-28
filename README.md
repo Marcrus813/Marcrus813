@@ -1,4 +1,4 @@
-# Hi, I'm Yucheng 👋
+# Hi, I'm Marcus 👋
 
 I'm a software engineer with 3+ years of experience and a growing focus on blockchain and smart contract development.
 
