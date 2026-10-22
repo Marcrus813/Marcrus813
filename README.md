@@ -167,28 +167,6 @@ A decentralized event prediction market with built-in market maker support, enab
 
 ---
 
-## 💼 Professional Experience
-
-**Backend Engineer** | Coinstore | Sep 2021 - Oct 2024
-
-- CEX multi-chain wallet system: led the unified multi-chain gateway, offline signing machine, chain sync (scanner), and the end-to-end deposit / withdrawal / consolidation / hot-to-cold / cold-to-hot pipeline, integrating Bitcoin, Ethereum, Solana, and TRON.
-- CEX wallet management & reconciliation system: built RBAC, asset and address configuration, fund flows, transaction reconciliation, and balance-sheet / financial settlement capabilities.
-- Cross-chain staking project: Layer 2 PoS economic model, cross-chain bridge, and Layer 1 LSP modules.
-
-**Backend Engineer** | Safeheron | Nov 2024 - Dec 2025
-
-- MPC asset management system: GG18 ECDSA and Ed25519 threshold signing, with one key system covering Bitcoin, EVM-compatible chains, and Solana.
-- Cryptographic research and technology selection; implemented threshold-signature schemes including ECDSA and EdDSA.
-- Manager + multi TSS Node distributed architecture, share storage, and disaster-recovery infrastructure.
-
-**Backend Engineer** | Event Prediction Market | Dec 2025 - Aug 2026
-
-- Core backend architecture and key functionality for a decentralized event prediction market: an in-memory price-time priority order book matching engine with cross-book complementary matching.
-- Market maker system covering the full event lifecycle (pre-market → mid-session → end-game).
-- Admin console: event lifecycle, user trades, market maker onboarding, event settlement, asset management, and risk control.
-
----
-
 ## 💬 Get in Touch
 
 I'm always open to discussing wallet architecture, digital-asset security, MPC/TSS, and DeFi protocols.
